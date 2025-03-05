@@ -1,0 +1,5 @@
+# Exclure les fichiers système et logs
+AppData/
+*.log
+*.tmp
+*.bak
