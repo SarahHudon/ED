@@ -1,0 +1,468 @@
+Uri: https://centremultiservicesed.com/
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\index.htm
+Content Type: text/html
+
+Uri: https://centremultiservicesed.com/bateau-saguenay/
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\bateau-saguenay\index.htm
+Content Type: text/html
+
+Uri: https://centremultiservicesed.com/comments/feed/
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://centremultiservicesed.com/contact/
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://centremultiservicesed.com/entretien-bateau/
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\entretien-bateau\index.htm
+Content Type: text/html
+
+Uri: https://centremultiservicesed.com/feed/
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://centremultiservicesed.com/mentions-legales/
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\mentions-legales\index.htm
+Content Type: text/html
+
+Uri: https://centremultiservicesed.com/reparation-bateau/
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\reparation-bateau\index.htm
+Content Type: text/html
+
+Uri: https://centremultiservicesed.com/wp-content/cache/et/2/et-core-unified-174077544929.min.css
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\cache\et\2\et-core-unified-174077544929.min.css
+Content Type: text/css
+
+Uri: https://centremultiservicesed.com/wp-content/cache/et/205795/et-core-unified-174079845572.min.css
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\cache\et\205795\et-core-unified-174079845572.min.css
+Content Type: text/css
+
+Uri: https://centremultiservicesed.com/wp-content/cache/et/218506/et-core-unified-174077732329.min.css
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\cache\et\218506\et-core-unified-174077732329.min.css
+Content Type: text/css
+
+Uri: https://centremultiservicesed.com/wp-content/cache/et/219176/et-core-unified-174079846415.min.css
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\cache\et\219176\et-core-unified-174079846415.min.css
+Content Type: text/css
+
+Uri: https://centremultiservicesed.com/wp-content/cache/et/219239/et-core-unified-174079846701.min.css
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\cache\et\219239\et-core-unified-174079846701.min.css
+Content Type: text/css
+
+Uri: https://centremultiservicesed.com/wp-content/cache/et/219846/et-core-unified-174079846115.min.css
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\cache\et\219846\et-core-unified-174079846115.min.css
+Content Type: text/css
+
+Uri: https://centremultiservicesed.com/wp-content/cache/min/1/76fdc29630.js?ver=1739589708
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\cache\min\1\76fdc29630.js
+Content Type: application/javascript
+
+Uri: https://centremultiservicesed.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=1739591245
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\cache\min\1\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://centremultiservicesed.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/js/index.js?ver=1739591245
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\cache\min\1\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://centremultiservicesed.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=1739591245
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\cache\min\1\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://centremultiservicesed.com/wp-content/cache/min/1/wp-content/plugins/divi-builder/core/admin/js/common.js?ver=1739589708
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\cache\min\1\wp-content\plugins\divi-builder\core\admin\js\common.js
+Content Type: application/javascript
+
+Uri: https://centremultiservicesed.com/wp-content/cache/min/1/wp-content/plugins/divi_extended_column_layouts/style.css?ver=1739589708
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\cache\min\1\wp-content\plugins\divi_extended_column_layouts\style.css
+Content Type: text/css
+
+Uri: https://centremultiservicesed.com/wp-content/cache/min/1/wp-content/themes/AnuGo-Media/style.css?ver=1739589708
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\cache\min\1\wp-content\themes\AnuGo-Media\style.css
+Content Type: text/css
+
+Uri: https://centremultiservicesed.com/wp-content/cache/min/1/wp-content/themes/Divi/style.css?ver=1739589708
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\cache\min\1\wp-content\themes\Divi\style.css
+Content Type: text/css
+
+Uri: https://centremultiservicesed.com/wp-content/cache/min/1/wp-includes/css/dashicons.min.css?ver=1739589708
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\cache\min\1\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://centremultiservicesed.com/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\plugins\wp-rocket\assets\js\wpr-beacon.min.js
+Content Type: application/javascript
+
+Uri: https://centremultiservicesed.com/wp-content/themes/Divi/core/admin/fonts/modules.eot
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\themes\Divi\core\admin\fonts\modules.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://centremultiservicesed.com/wp-content/themes/Divi/core/admin/fonts/modules.eot?
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\themes\Divi\core\admin\fonts\modules-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://centremultiservicesed.com/wp-content/themes/Divi/core/admin/fonts/modules.svg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\themes\Divi\core\admin\fonts\modules.svg
+Content Type: image/svg+xml
+
+Uri: https://centremultiservicesed.com/wp-content/themes/Divi/core/admin/fonts/modules.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\themes\Divi\core\admin\fonts\modules.ttf
+Content Type: application/octet-stream
+
+Uri: https://centremultiservicesed.com/wp-content/themes/Divi/core/admin/fonts/modules.woff
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\themes\Divi\core\admin\fonts\modules.woff
+Content Type: font/woff
+
+Uri: https://centremultiservicesed.com/wp-content/themes/Divi/epanel/shortcodes/images/shortcodes-sprite.png
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\themes\Divi\epanel\shortcodes\images\shortcodes-sprite.png
+Content Type: image/png
+
+Uri: https://centremultiservicesed.com/wp-content/themes/Divi/includes/builder/styles/images/preloader.gif
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\themes\Divi\includes\builder\styles\images\preloader.gif
+Content Type: image/gif
+
+Uri: https://centremultiservicesed.com/wp-content/themes/Divi/includes/builder/styles/images/subscribe-loader.gif
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\themes\Divi\includes\builder\styles\images\subscribe-loader.gif
+Content Type: image/gif
+
+Uri: https://centremultiservicesed.com/wp-content/themes/Divi/js/custom.min.js?ver=3.0.99
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\themes\Divi\js\custom.min.js
+Content Type: application/javascript
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2017/03/anugo_icone_blanc_14.png
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2017\03\anugo_icone_blanc_14.png
+Content Type: image/png
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/01/bateau-coucher-soleil.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\01\bateau-coucher-soleil.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/01/bateau-reparation-sec.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\01\bateau-reparation-sec.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/01/chaloupe-lac.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\01\chaloupe-lac.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/01/chaloupe-oiseau-lac.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\01\chaloupe-oiseau-lac.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/01/chaloupe-soulevement-sec.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\01\chaloupe-soulevement-sec.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/01/chaloupes-neuves-1.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\01\chaloupes-neuves-1.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/01/coque-bateau-1.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\01\coque-bateau-1.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/01/coque-peinture-neuve-1.jpeg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\01\coque-peinture-neuve-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/01/coucher-soleil-chaloupe.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\01\coucher-soleil-chaloupe.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/01/fav-icone-centremultiservicesed.png
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\01\fav-icone-centremultiservicesed.png
+Content Type: image/png
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/01/fond-section-bateau.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\01\fond-section-bateau.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/01/logo-centremultiservicesed-300x129.png
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\01\logo-centremultiservicesed-300x129.png
+Content Type: image/png
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/01/logo-centremultiservicesed.png
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\01\logo-centremultiservicesed.png
+Content Type: image/png
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/01/peinture-bois-vieux.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\01\peinture-bois-vieux.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/01/pont-bateau-bouts.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\01\pont-bateau-bouts.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/01/ponton-lac.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\01\ponton-lac.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/01/reparation-bateau-sablage-peinture.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\01\reparation-bateau-sablage-peinture.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/02/bateau-ponton.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\02\bateau-ponton.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/02/bateau-vue-plongee-lac.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\02\bateau-vue-plongee-lac.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/02/chaloupe-reparee.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\02\chaloupe-reparee.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/02/plancher-bateau.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\02\plancher-bateau.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/02/tapis-moquette-sol.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\02\tapis-moquette-sol.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/2018/02/vinyl-sol.jpg
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\2018\02\vinyl-sol.jpg
+Content Type: image/jpeg
+
+Uri: https://centremultiservicesed.com/wp-content/uploads/img/overlay-noir.png
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-content\uploads\img\overlay-noir.png
+Content Type: image/png
+
+Uri: https://centremultiservicesed.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://centremultiservicesed.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://centremultiservicesed.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://centremultiservicesed.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://centremultiservicesed.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://centremultiservicesed.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://centremultiservicesed.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://centremultiservicesed.com/wp-json/
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://centremultiservicesed.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcentremultiservicesed.com%2F
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://centremultiservicesed.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcentremultiservicesed.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://centremultiservicesed.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcentremultiservicesed.com%2Fbateau-saguenay%2F
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://centremultiservicesed.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcentremultiservicesed.com%2Fbateau-saguenay%2F&format=xml
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://centremultiservicesed.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcentremultiservicesed.com%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://centremultiservicesed.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcentremultiservicesed.com%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://centremultiservicesed.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcentremultiservicesed.com%2Fentretien-bateau%2F
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://centremultiservicesed.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcentremultiservicesed.com%2Fentretien-bateau%2F&format=xml
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://centremultiservicesed.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcentremultiservicesed.com%2Fmentions-legales%2F
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://centremultiservicesed.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcentremultiservicesed.com%2Fmentions-legales%2F&format=xml
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://centremultiservicesed.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcentremultiservicesed.com%2Freparation-bateau%2F
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://centremultiservicesed.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcentremultiservicesed.com%2Freparation-bateau%2F&format=xml
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://centremultiservicesed.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://centremultiservicesed.com/wp-json/wp/v2/pages/205795
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\wp\v2\pages\205795
+Content Type: application/json
+
+Uri: https://centremultiservicesed.com/wp-json/wp/v2/pages/218506
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\wp\v2\pages\218506
+Content Type: application/json
+
+Uri: https://centremultiservicesed.com/wp-json/wp/v2/pages/219176
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\wp\v2\pages\219176
+Content Type: application/json
+
+Uri: https://centremultiservicesed.com/wp-json/wp/v2/pages/219239
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\wp\v2\pages\219239
+Content Type: application/json
+
+Uri: https://centremultiservicesed.com/wp-json/wp/v2/pages/219846
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\wp-json\wp\v2\pages\219846
+Content Type: application/json
+
+Uri: https://fonts.googleapis.com/css?family=ABeeZee:regular%2Citalic|Muli:200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Nunito Sans:200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=ABeeZee:regular%2Citalic|Muli:200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tWklQ.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\abeezee\v22\esDR31xSG-6AGleN2tWklQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUkp8G.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\abeezee\v22\esDT31xSG-6AGleN2tCUkp8G.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG00904eqVxg.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\muli\v29\7Aujp_0qiz-afTfcIyoiGtm2P0wG00904eqVxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG03Z04eqVxg.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\muli\v29\7Aujp_0qiz-afTfcIyoiGtm2P0wG03Z04eqVxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG05Fz4eqVxg.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\muli\v29\7Aujp_0qiz-afTfcIyoiGtm2P0wG05Fz4eqVxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG089z4eqVxg.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\muli\v29\7Aujp_0qiz-afTfcIyoiGtm2P0wG089z4eqVxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG0xF04eqVxg.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\muli\v29\7Aujp_0qiz-afTfcIyoiGtm2P0wG0xF04eqVxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG0xFz4eqVxg.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\muli\v29\7Aujp_0qiz-afTfcIyoiGtm2P0wG0xFz4eqVxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG0zh04eqVxg.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\muli\v29\7Aujp_0qiz-afTfcIyoiGtm2P0wG0zh04eqVxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\muli\v29\7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k30e0.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\muli\v29\7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFlnl0k30e0.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\muli\v29\7Aulp_0qiz-aVz7u3PJLcUMYOFlnl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFlOkEk30e0.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\muli\v29\7Aulp_0qiz-aVz7u3PJLcUMYOFlOkEk30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFlOl0k30e0.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\muli\v29\7Aulp_0qiz-aVz7u3PJLcUMYOFlOl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFmQkEk30e0.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\muli\v29\7Aulp_0qiz-aVz7u3PJLcUMYOFmQkEk30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\muli\v29\7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-113452567-1
+File Name: C:\Downloaded Web Sites\centremultiservicesed.com\gtag\js
+Content Type: application/javascript
+
